@@ -18,8 +18,8 @@ Analyze Adidas sales data to understand the main drivers behind sales growth, pr
 ## Key Insights
 - Sales show a noticeable decline in March and October.
 - Total sales in 2021 were three times higher than in 2020, likely due to the impact of the pandemic in 2020.
-- Men's Street Footwear adn Men's Athletic Footwear cotribute the highest share of total sales.
-- Most profits are generated from Men's Stree Footwear and Women's Apparel, which also achieve the highest profit margins.
+- Men's Street Footwear and Men's Athletic Footwear contribute the highest share of total sales.
+- Most profits are generated from Men's Street Footwear and Women's Apparel, which also achieve the highest profit margins.
 - Online sales are showing a steady increase over time.
 - Despite the growth in online sales, the majority of total sales still come from in-store channels
 
